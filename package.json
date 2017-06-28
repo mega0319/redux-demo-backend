@@ -1,5 +1,8 @@
 {
   "name": "redux-demo-backend",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.16.2"
+  }
 }
